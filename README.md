@@ -1,5 +1,5 @@
 # 10-Simple-Projects
-##Project list: 
+## Project list: 
 1. Split Landing Page  
 2. Form Wave Animation  
 3. Sound Board   
