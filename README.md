@@ -7,6 +7,6 @@
 5. Choice Picker 
 6. Frequently Asked Questions  
 7. Event KeyCodes Widget  
-8. Jokes API
+8. Jokes API (does not work)
 9. Expanding Cards  
 10. Incrementing Counter
